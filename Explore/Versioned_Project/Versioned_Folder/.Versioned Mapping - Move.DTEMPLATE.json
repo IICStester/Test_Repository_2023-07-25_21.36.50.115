@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "1k2jeUxfI2jhw1rcUy4iy4",
+    "name" : "Versioned Mapping - Move",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100081700000000001G"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-07-25T21:37:24.304Z",
+  "objectRefs" : [ ]
+}
